@@ -1,0 +1,100 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "TypeScript", "C", "C++", "C#", "Go", "Rust",
+    "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R", "MATLAB", "Perl", "Shell",
+    "Bash", "PowerShell", "Dart", "Lua", "Haskell", "Elixir", "Clojure", "Julia"
+  ],
+  "web_frontend": [
+    "React", "Vue.js", "Angular", "Next.js", "Nuxt.js", "Svelte", "HTML", "CSS",
+    "SASS", "SCSS", "Tailwind CSS", "Bootstrap", "jQuery", "Redux", "Zustand",
+    "GraphQL", "REST API", "WebSockets", "Webpack", "Vite", "Babel", "ESLint",
+    "Storybook", "Figma", "Adobe XD", "Responsive Design", "PWA", "Web Components"
+  ],
+  "web_backend": [
+    "Node.js", "Express.js", "FastAPI", "Django", "Flask", "Spring Boot", "Laravel",
+    "Ruby on Rails", "ASP.NET", "NestJS", "Hapi.js", "Koa.js", "Gin", "Echo",
+    "gRPC", "REST", "GraphQL", "Microservices", "Serverless", "API Gateway"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite", "Oracle", "SQL Server",
+    "Cassandra", "DynamoDB", "Elasticsearch", "Neo4j", "Firebase", "Supabase",
+    "InfluxDB", "CockroachDB", "MariaDB", "SQLAlchemy", "Prisma", "Mongoose",
+    "Sequelize", "Hibernate", "JDBC", "ODBC"
+  ],
+  "devops_cloud": [
+    "Docker", "Kubernetes", "AWS", "Azure", "GCP", "Google Cloud", "CI/CD",
+    "Jenkins", "GitHub Actions", "GitLab CI", "CircleCI", "Terraform", "Ansible",
+    "Helm", "Prometheus", "Grafana", "ELK Stack", "Nginx", "Apache", "Linux",
+    "Ubuntu", "CentOS", "Vagrant", "Packer", "CloudFormation", "CDK", "Pulumi",
+    "Load Balancing", "Auto Scaling", "VPC", "IAM", "S3", "EC2", "Lambda",
+    "Azure DevOps", "GKE", "EKS", "AKS", "Heroku", "Vercel", "Netlify", "Railway"
+  ],
+  "machine_learning_ai": [
+    "Machine Learning", "Deep Learning", "Neural Networks", "NLP", "Computer Vision",
+    "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas", "NumPy", "Matplotlib",
+    "Seaborn", "OpenCV", "Hugging Face", "Transformers", "BERT", "GPT", "LangChain",
+    "MLflow", "Kubeflow", "Feature Engineering", "Model Deployment", "Model Serving",
+    "RAG", "LLM", "Stable Diffusion", "Reinforcement Learning", "XGBoost", "LightGBM",
+    "CatBoost", "Random Forest", "SVM", "K-Means", "PCA", "FAISS", "Pinecone",
+    "Weaviate", "Vector Database", "Embeddings", "Fine-tuning", "Transfer Learning",
+    "Data Augmentation", "Hyperparameter Tuning", "A/B Testing", "Statistical Analysis"
+  ],
+  "data_engineering": [
+    "Apache Spark", "Apache Kafka", "Apache Airflow", "dbt", "Hadoop", "Hive",
+    "Flink", "Databricks", "Snowflake", "BigQuery", "Redshift", "Data Warehouse",
+    "Data Lake", "ETL", "ELT", "Data Pipeline", "Data Modeling", "Tableau",
+    "Power BI", "Looker", "Metabase", "dbt", "Great Expectations", "Prefect"
+  ],
+  "mobile": [
+    "React Native", "Flutter", "Android", "iOS", "Swift", "Objective-C", "Kotlin",
+    "Xamarin", "Ionic", "Capacitor", "Expo", "Android Studio", "Xcode",
+    "Firebase", "Push Notifications", "App Store", "Play Store"
+  ],
+  "security": [
+    "Cybersecurity", "Penetration Testing", "OWASP", "OAuth", "JWT", "SSL/TLS",
+    "Encryption", "Firewalls", "SIEM", "Vulnerability Assessment", "Bug Bounty",
+    "Ethical Hacking", "Kali Linux", "Wireshark", "Burp Suite", "Nmap",
+    "Security Auditing", "IAM", "Zero Trust", "GDPR", "SOC 2", "ISO 27001"
+  ],
+  "project_management": [
+    "Agile", "Scrum", "Kanban", "Jira", "Confluence", "Notion", "Trello",
+    "Asana", "Linear", "Product Management", "Sprint Planning", "Retrospectives",
+    "Stakeholder Management", "OKRs", "KPIs", "Roadmapping", "PRINCE2", "PMP"
+  ],
+  "soft_skills": [
+    "Leadership", "Communication", "Problem Solving", "Teamwork", "Critical Thinking",
+    "Time Management", "Adaptability", "Creativity", "Attention to Detail",
+    "Decision Making", "Conflict Resolution", "Mentoring", "Public Speaking",
+    "Technical Writing", "Research", "Analytical Skills", "Collaboration"
+  ],
+  "data_science_tools": [
+    "Jupyter", "Google Colab", "RStudio", "Anaconda", "DVC", "Weights & Biases",
+    "Neptune", "MLflow", "Streamlit", "Gradio", "Plotly", "Dash", "SciPy",
+    "Statsmodels", "NLTK", "spaCy", "Gensim", "TextBlob", "Prophet"
+  ],
+  "version_control": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "SVN", "Mercurial",
+    "Code Review", "Pull Requests", "Branch Management"
+  ],
+  "testing": [
+    "Unit Testing", "Integration Testing", "E2E Testing", "TDD", "BDD",
+    "Jest", "Pytest", "Mocha", "Chai", "Cypress", "Selenium", "Playwright",
+    "JUnit", "TestNG", "Postman", "Insomnia", "Load Testing", "k6", "JMeter"
+  ],
+  "design": [
+    "UI/UX Design", "Figma", "Adobe XD", "Sketch", "InVision", "Zeplin",
+    "Photoshop", "Illustrator", "Canva", "Wireframing", "Prototyping",
+    "User Research", "Usability Testing", "Design Systems", "Typography",
+    "Color Theory", "Accessibility", "WCAG"
+  ],
+  "blockchain": [
+    "Solidity", "Ethereum", "Web3.js", "Ethers.js", "Hardhat", "Truffle",
+    "Smart Contracts", "DeFi", "NFT", "Polygon", "Solana", "Blockchain",
+    "Cryptocurrency", "MetaMask", "IPFS"
+  ],
+  "embedded_systems": [
+    "Arduino", "Raspberry Pi", "IoT", "Embedded C", "RTOS", "FPGA",
+    "Verilog", "VHDL", "PCB Design", "Eagle", "KiCad", "MQTT", "I2C", "SPI",
+    "UART", "Microcontrollers", "Sensors", "Actuators"
+  ]
+}

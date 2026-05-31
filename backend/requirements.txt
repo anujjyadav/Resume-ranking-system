@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sentence-transformers
+scikit-learn
+spacy
+PyMuPDF
+python-docx
+numpy
+pandas
+pydantic
+python-dotenv
+aiofiles
+httpx

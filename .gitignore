@@ -1,0 +1,58 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# ── Virtual Environment ──
+venv/
+env/
+.venv/
+.env
+
+# ── ML Model Cache (large files, download on first run) ──
+backend/models/
+*.npy
+# Uncomment below to also exclude pre-computed embeddings:
+# backend/data/role_embeddings.npy
+# backend/data/role_ids.json
+
+# ── Node.js ──
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ── Vite Build Output ──
+frontend/dist/
+frontend/.vite/
+
+# ── Environment Variables ──
+.env
+.env.local
+.env.*.local
+
+# ── OS Files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Logs ──
+*.log
+logs/
+
+# ── Uploaded Files (temp) ──
+uploads/
+temp/
